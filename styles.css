@@ -40,6 +40,10 @@ img{
     transform: scale(0.5);
 }
 
+    img:hover{
+        transform: scale(0.55);
+    }
+
 a{
     text-decoration: none;
     padding: 3px;
@@ -62,5 +66,9 @@ a:visited{
 
     img{
         transform: scale(0.35);
+    }
+
+    img:hover{
+        transform: scale(0.4);
     }
 }
