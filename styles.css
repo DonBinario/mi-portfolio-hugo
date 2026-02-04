@@ -37,7 +37,7 @@ main{
 }
 
 img{
-    transform: scale(0.5);
+    transform: scale(1);
 }
 
     img:hover{
@@ -72,3 +72,4 @@ a:visited{
         transform: scale(0.4);
     }
 }
+
